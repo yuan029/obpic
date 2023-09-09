@@ -1,0 +1,2 @@
+# obpic
+save obsidian pictures
